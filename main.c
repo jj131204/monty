@@ -18,6 +18,7 @@ int main(int argc, char *argv[])
 	size_t bufsize = 0;
 	unsigned int lines = 1;
 
+
 	if (argc != 2)
 	{
 		fprintf(stderr, "USAGE: monty file\n");

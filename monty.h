@@ -49,7 +49,9 @@ int n;
 int main(int argv, char *argc[]);
 int _opcode(char *line, stack_t **stack, unsigned int lines_num);
 void _pall(stack_t **stack, unsigned int line_number);
+/*void _push(stack_t **stack, unsigned int line_number);*/
 void _push(stack_t **stack, unsigned int line_number);
+stack_t *new_Node(int n);
 void _pint(stack_t **stack, unsigned int line_number);
 void _pop(stack_t **stack, unsigned int line_number);
 void _swap(stack_t **stack, unsigned int line_number);
