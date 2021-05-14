@@ -23,7 +23,7 @@ stack_t *new_Node(int n)
 }
 
 /**
- * push - This function pushes an element to the stack.
+ * _push - This function pushes an element to the stack.
  * @stack: Double pointer to the head of the Stack.
  * @line_number: Number of the line.
  * Return: Nothing.
