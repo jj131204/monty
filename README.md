@@ -5,7 +5,7 @@
 <h2>How to use it</h2>
 
 - Clone this repository into your OS with [monty´s](https://github.com/jj131204/monty)
- 
+
 - Compiler :  `GCC version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.4)`
 
 -  Compile:  `gcc -Wall -Werror -Wextra -pedantic *.c -o monty`
